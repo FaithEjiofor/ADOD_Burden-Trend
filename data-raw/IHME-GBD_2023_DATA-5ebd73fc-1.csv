@@ -1,0 +1,205 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1990,17.009031893718635,45.6588995793025,3.8443745444417754
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1991,17.067257367211155,45.17369646979022,3.9224882030512207
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1992,17.00888969842192,44.4788166997721,3.9377616557823925
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1994,17.085653237130785,45.71493873370514,3.9948977610929797
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1993,17.05601499782823,45.132480030132385,3.9419146922248047
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1995,17.136932247069545,45.85002572779177,4.090587530398821
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1996,17.205598351881683,45.482826053319066,4.152668716733953
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1990,24.443444230644474,63.08579369283124,5.920915678983016
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1990,17.41028936142163,46.92590502045985,3.9213855131946946
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1991,24.4312915534955,62.60767934926588,5.9089631670162595
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1997,17.189037679782338,44.70728493778837,4.08602780406101
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1999,17.220610973963563,45.54584001814366,3.993093560533208
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1998,17.239819754970192,44.90850268635046,4.050140345844074
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1991,17.461810974368117,46.48577816904679,3.997435906919524
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2002,17.733844099880173,45.60675425753388,4.104851021717675
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2003,17.534807849205126,45.14650995467895,4.080626908003509
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1992,24.388391220668467,62.360655309447175,5.909582011473787
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2000,17.405318518539,45.48712379627513,4.073044006695118
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2000,17.7443787856399,46.60288651346602,4.127918332371107
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1992,17.405558444661665,45.74132448777334,4.009950875576451
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2001,17.434316130438802,45.2448620088467,4.042109375707502
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2006,18.090428490774325,47.53037852898505,4.325813631965083
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1993,24.52012655771784,62.72119816709585,6.000337188686579
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2002,18.04791847484482,46.482166761714296,4.200521444779726
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2008,18.243881709579963,47.126225476596424,4.2853679676523235
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2005,17.800136591621072,46.385689661804136,4.19886994497178
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1994,24.51641078467684,62.68301725665413,6.012082570922581
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2004,17.659492541622967,45.27961601604565,4.135354484254023
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1993,17.45177026983997,46.24267979138979,4.010346072279926
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1997,17.547901561920018,45.80243380063929,4.1694949810715976
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2007,17.962339310008367,46.691653335764556,4.283726780233144
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1996,24.67018551456535,62.98054196240405,6.06983724594701
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1997,24.67540777252022,62.91498624436076,6.056101701125252
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2009,18.419156950056152,47.51988977656167,4.278596336691122
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1995,17.500092936243714,46.86518106776428,4.1750551625913594
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1995,24.6413338588662,63.03048766175638,6.061499396113212
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1996,17.56287204683614,46.54834292864364,4.230184495936301
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1998,24.729215324702007,63.157741552713844,6.035280423097163
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1994,17.463177403067796,46.75602616241613,4.086816150799456
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1999,24.853976813702175,63.125515444572635,6.057845496203227
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1998,17.5946360055523,46.06262173318574,4.136358496177809
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2001,17.75256954477924,46.18938509545432,4.12933646155162
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2003,25.18239203398989,63.166259463932995,6.176189614776268
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2000,24.862253941481526,62.51872855118849,6.067432675048866
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1999,17.562082105069173,46.70955646808987,4.077624426444804
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2001,24.905805660781677,62.21204787727789,6.0871210482662255
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2010,18.591874520678314,48.159591811925786,4.286949173206927
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2003,17.84051312911869,45.95703886214124,4.176760707627823
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2002,25.017790359418623,62.54932665090564,6.119293006228941
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2004,25.071460663054342,62.87823791119661,6.10786428084093
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2005,25.149701673022463,63.28413408632869,6.1261854402235265
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2011,18.587622093532733,48.89047749669647,4.244959904204484
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2004,17.94909392118338,46.06113049096819,4.224187880736352
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2005,18.071167194276125,47.119336532772465,4.281438646393751
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2012,18.565420196422245,49.866951285493876,4.193243729679142
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2006,24.961591412710714,62.63687615467291,6.0956713797337345
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2006,18.350992606846017,48.19064818031118,4.398067691303088
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2013,19.036768558853275,51.37663896287036,4.251375860789331
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2007,24.99328346168109,62.53824227056853,6.09581282578309
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2007,18.210227321943183,47.36554666330824,4.355813513782348
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2014,18.952003384117905,51.41775955035492,4.231946448925685
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2008,25.132333960876256,63.00440819634582,6.151234118015118
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2008,18.48276843550723,47.81134344530492,4.354243119274131
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2009,25.052140209676047,62.93772002954027,6.135870544848551
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2015,18.705279308558175,50.77269350432414,4.2098785021811205
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2009,18.664814672123487,48.288656951875566,4.347745457074835
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2010,25.087795104681128,62.945156795258804,6.1709386961242405
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2010,18.840603223272844,48.98205575374125,4.35402813526898
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2016,18.991039399779197,51.4743405145323,4.302455322148367
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2011,25.00926811885114,62.37297695927769,6.181325675296348
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2011,18.846316546007618,49.6462648673576,4.313057062062153
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2017,19.214864186930626,52.076953398635744,4.392688522034995
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2012,25.024184679499875,62.17973809461349,6.181915132994142
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2012,18.822186500650474,50.32046478194064,4.270358681396324
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2013,24.94576705974816,61.690891656763334,6.191069404051112
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2013,19.274703198579402,51.73893221574087,4.308392479063912
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2018,19.530906476258508,52.508398330167594,4.509499213586588
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2014,25.006569951850693,61.855232490383024,6.225898877347205
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2014,19.18679329529174,51.79517272131251,4.283299233061991
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2019,19.98007248205275,53.23826912915354,4.616482010364994
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2015,25.134640140111742,62.078135019449306,6.257004058353226
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2020,19.736456553585267,52.46643180549405,4.5250006372386435
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2015,18.960057193972613,51.25272167542446,4.277303495412616
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2016,25.205191738090843,62.00438163454804,6.275868161950641
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2016,19.23507604375545,52.413472958914845,4.3702772443885864
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2021,20.030418830210618,52.89859396232449,4.549638427966006
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2017,25.30589598100888,62.15779227806978,6.327648971839696
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2017,19.463402345014266,53.01509009257521,4.46722940436068
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2022,19.31286537157688,50.94429112374938,4.4633045899633
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2018,19.771120088804143,53.44353606083112,4.581282058731379
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2018,25.303676233014546,62.745964298123575,6.333225220053096
+1,All Population,1,Deaths,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,19.122087578159864,50.48480777442575,4.452125242781041
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2019,25.317737874053957,62.82548290396221,6.345970161186209
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2019,20.20431320023635,54.116111549827984,4.684279079129351
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2020,25.159146587054234,62.575151809081824,6.267377645059843
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2020,19.98523945687084,53.37406313569148,4.588222521513921
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2021,25.582945179423263,63.95636762050249,6.402222173433817
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2021,20.274533931476984,53.82428163045041,4.620330755819624
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2022,26.119663908306777,65.1739140387425,6.508875361931438
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2022,19.54808219931117,51.811069248062594,4.520334791811656
+1,All Population,1,Deaths,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,25.78311446287501,62.59374548478184,6.384073198491517
+1,All Population,1,Deaths,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,19.3709966153051,51.258511286961735,4.511273137699488
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1990,434.8356094119707,907.5820566011763,191.98948710322352
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1991,300.0798345321074,639.0857523762219,123.4002792195832
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1990,299.93339846539027,644.2216436040833,122.80347673048561
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1990,294.3261691405307,627.5458842998441,121.37159340298005
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1992,299.0562478784991,630.6133442799124,123.68825283960291
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1991,434.9781469910148,903.2549623925565,192.5820341346322
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1992,293.5527193285958,614.4990312778924,122.38548738147111
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1993,299.1929046467738,634.0593644188716,123.90224541700128
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1994,298.901715784662,638.9874848910987,123.94993415451657
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1992,434.68522719641413,900.0813240032996,192.7367026334343
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1993,436.4657921182627,908.3699375190494,193.36406937180945
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1991,294.58555832177854,622.1636781658557,122.12258063416222
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1993,293.7045526756125,619.2176687499268,122.59237381560105
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1994,436.5151582981914,907.3596846269966,193.56922608337507
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1995,298.9533726719044,643.3981498760551,123.91798746512312
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1994,293.6800919705225,626.023998530052,122.88481982077214
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1996,299.14712916349254,642.1890566385375,124.0583753133341
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1995,293.94873894203397,631.1101976779872,122.86165231914978
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1995,437.90789400389883,909.1909596188224,193.94264623280492
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1997,298.3494528715573,639.3028248610315,123.87101054273043
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1998,298.23674587505815,650.2406432991734,123.84191638168714
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1999,297.2297720631043,656.2604042552964,123.31138109176504
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2000,298.9931432776581,654.9543136683701,123.92539790415927
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1996,438.25969156591344,911.1812480720655,193.51225145400386
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2002,301.7731206950409,658.0900013820485,124.12434871478186
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1996,294.21172251175636,629.261473154385,122.37580957610386
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2001,298.583856779805,653.1803500560378,123.30881563489535
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1998,293.2567530457704,638.6012548234468,121.91458856826395
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1998,439.0279109097,911.0144608027057,193.84637022201065
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1997,293.3832976683419,628.0983166598403,122.0316918494834
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1997,438.3286457494904,909.0868123986339,193.55062409999462
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1999,292.3931388998591,640.2546667827661,121.46937596798904
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2003,298.9736732602024,649.8994756858474,123.65323719713193
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1999,440.4236640837975,917.0218696255455,194.51628036261909
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2000,294.1473081174274,639.5833089537604,122.01463237233473
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2004,299.89900948568214,652.1407394863984,124.50314259741519
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2000,440.4490957523109,915.8192414774077,194.76630611467118
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2006,304.39909420564624,669.4475504658307,124.45221842640346
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2002,297.24415857008506,645.7048714226664,122.49445087733507
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2007,302.7071531778343,660.8400451535034,123.61551184166468
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2005,301.1370275733755,652.8054718760187,124.4172025465359
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2001,440.69626045721367,912.4849335557745,194.60199417935274
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2008,306.17780117952384,659.8369167389963,124.65850552546122
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2002,441.7638912424723,917.2456647633918,194.90424149334657
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2001,293.9980765343971,639.5964501984627,121.4310732623363
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2004,442.1813476968469,919.5853495241405,195.73804481520068
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2009,308.48214011870857,655.0566416433411,125.22049494320963
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2006,440.54315749366424,907.6513972624871,195.785696707468
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2003,443.50542345956336,922.1794907713152,195.4395198376898
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2010,310.4818133844743,658.6187682274204,125.45295566713257
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2003,294.5063232277889,638.6122296069406,122.04293503096106
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2006,300.41847530351083,659.1314872493739,123.05087250131838
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2011,310.46461011986406,665.9370991821773,125.70938301954054
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2004,295.5984833756068,643.2011349127672,123.01802104080167
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2012,310.110421148432,677.9331244483833,125.40331472088575
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2005,443.09090219201465,917.5142437630464,196.38154262012364
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2008,302.48921067877023,651.5704650994442,123.34212953222531
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2007,298.9288121694613,652.4187073928558,122.22196288899487
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2013,315.36189132619484,698.2761068114922,126.16933419042229
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2008,441.76929451509915,911.7660264425358,195.95238825738733
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2007,440.5234596968293,909.5105434159603,195.51857955670044
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2005,297.04940451394884,642.8574640969033,123.0952906223714
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2015,311.37738766805717,708.225813970911,124.95343962078184
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2014,314.2589389571561,701.2521459544558,125.48546962255843
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2009,440.5991474271326,904.1135297959232,195.81655991487003
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2010,440.94799864439926,903.1980968928044,196.18232432894183
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2009,304.73300830060725,647.5193587138034,124.10333304768034
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2016,314.5908274331454,713.4282449791026,125.94433284859983
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2011,439.91116158324405,906.8058301647211,196.14449695752222
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2017,317.1387836488212,718.0153712340348,126.34830765133063
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2010,306.68326903314374,649.9252202805949,124.61208216764308
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2018,320.3836670298994,723.6333882104765,126.96941171971865
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2011,306.5212896222122,658.0734980630333,124.75628795123109
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2012,440.0887111374897,908.0070116524565,196.3672544953229
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2019,325.23045396128293,734.0756148853534,127.72988928858459
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2020,319.8897487449237,729.875964075821,125.76217353205449
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2021,322.9142397398127,733.5692956283724,125.60563364123018
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2012,306.2054372084004,669.0657261854342,124.38449391797336
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2022,315.3184430601192,709.4151120384176,125.11287628449875
+1,All Population,2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,313.08266458042704,700.1419945273484,124.56666584969241
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2014,439.76504253058107,907.5775858195842,197.9818866933142
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2013,438.95060568884065,905.500005476095,196.99809484952274
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2016,310.8719459473004,704.7455621740531,125.19106598457134
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2015,307.4933937987836,699.0606996497474,124.00556716718779
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2016,442.85846039269427,912.0627577025989,199.2252162917202
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2013,311.68091793761994,689.9894860448239,125.15708286933506
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2015,441.61904896135394,910.5062796966762,198.59954514447614
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2018,316.71948637298044,715.7960229732319,126.13185083802323
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2019,321.73985659109945,726.4251872398279,126.8294347405169
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2014,310.61789652232505,692.3535413031984,124.52120789781806
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2019,445.0085490358854,917.033565036062,199.82683668466257
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2018,444.6793799746798,916.580642039579,199.72055563334516
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2017,444.3366540158547,913.4616026552335,199.72788988999977
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2017,313.41201319772017,709.8112169898967,125.57775706588315
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2021,319.3990927043043,721.1313694158878,124.77370904019503
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2020,316.35106472988855,720.9409387750924,124.88869134660413
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2020,442.39365230135644,909.4282441258523,198.85606120708067
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2021,449.1376557612744,924.144803953753,201.95950265270943
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2022,457.85342851894643,948.799532891687,205.75201841075605
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2022,311.8218775091918,696.9048140330812,124.09184318386208
+1,All Population,2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,452.3684703484753,923.0966400231008,203.2247668657563
+1,All Population,2,DALYs (Disability-Adjusted Life Years),263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,309.3691066921151,688.9440895133275,123.50385683151036

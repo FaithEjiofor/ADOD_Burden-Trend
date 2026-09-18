@@ -1,0 +1,409 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1990,0.006590267435975,0.0075171923966921,0.0056829720737706
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1990,645.41079162143,735.57567405431,556.04651547199
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1990,0.0041237962219308,0.0047157705171855,0.0035273097329868
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1990,411.74445387123,470.82441851856,352.2334273678
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1990,0.0041376009462188,0.0047324533556187,0.0035453301978012
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1990,413.06475940283997,472.14767419020006,353.99342805384
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1991,0.0066055308860185,0.0075191580143345,0.0056951661208646
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1991,646.57798921666,735.46220749667,557.05773905013
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1991,0.0041267344688003,0.0047172263666834,0.0035314067474772
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1991,411.93390136412,470.67069378023996,352.56947865802
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1992,0.0066180543482008,0.0075231510088278,0.0057050892985762
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1992,647.4691021984,735.5281861405,557.80948101362
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1991,0.0041132977180786,0.0047067067078297,0.0035143408049499
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1991,410.64853473502,469.92014144276,350.90391931528
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1992,0.0041019459643524,0.0046974416514807,0.0035068932177355
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1992,409.46478789308003,468.95907854971,350.11848885399996
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1993,0.0040903732192233,0.0046824760335033,0.0034989199551208
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1993,408.25892859393,467.28189764122,349.28440580096
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1992,0.0041151559818641,0.0047046181913053,0.0035227947526969
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1992,410.73007919619,469.61705410592003,351.66414569619
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1993,0.0066355929956061,0.0075358445926114,0.0057201491244938
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1993,648.86195774921,736.92136750006,559.06273214254
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1994,0.0066485960055545,0.0075509093008993,0.0057307819317891
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1994,649.82653875426,738.02260915516,559.8856742701801
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1993,0.0041034967965853,0.0046938755990902,0.0035145633619392
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1993,409.51835733654,468.27615911212,350.80561887667
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1998,0.0066993815905896,0.007607968909128,0.0057626990782627
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1998,653.48435156704,742.61770280039,562.53664548658
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1996,0.0040683121593682,0.004653859122096,0.0034881736219306
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1996,405.88562970003,464.36490069922996,348.08014153754
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1994,0.004092570779154,0.0046828771661806,0.0035066587747019
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1994,408.38276527224,467.09625468006004,349.9823806939
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1994,0.0040795644242224,0.0046712568799991,0.0034912927201997
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1994,407.13215499638005,465.99697764636,348.48759936762
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2000,0.0067158417939307,0.0076269200129401,0.0057702347987353
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2000,654.48948447779,743.42497113094,563.1040065436
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1995,0.0066592919463051,0.0075641474351785,0.0057386654308003
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1995,650.58509859792,738.91338182241,560.50506500368
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1998,0.0040087031069602,0.0045781045010429,0.0034375060670631
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1998,399.90377400815,456.90360961716,343.00342889014
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1999,0.0040032424218925,0.0045641631715099,0.0034356394180385
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1999,399.28065555527,455.21338054807,342.75334266525005
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1997,0.0040330114715994,0.0046119334144294,0.0034564989811868
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1997,402.36862967916005,460.31017485097,344.92773614966
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1996,0.0066714323973277,0.0075736380457427,0.0057459169310755
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1996,651.46725555113,740.01068699976,561.1007501203701
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2001,0.0067156092683666,0.0076251546355446,0.005769345804536
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2001,654.1963018495001,743.35129549531,562.85488471676
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1995,0.0040825885363251,0.0046743355477958,0.0034994634274238
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1995,407.34578117574995,466.16320218541,349.23433309637
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2001,0.0039796215569784,0.0045347438040328,0.0034168207910414
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2001,396.80181300249996,452.01957626146003,340.77789263363
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1997,0.006685196393675,0.0075904319088907,0.0057538813955258
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1997,652.46012761532,741.30747713857,561.78812500558
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2005,0.0067107549307571,0.0076224670916343,0.0057570169976366
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2005,652.4474806275,741.20012066239,560.60920713043
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1996,0.0040550300253682,0.0046430888916213,0.0034734157679725
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1996,404.60300738065,463.07698660287,346.64401025447995
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1997,0.0040471289729314,0.004623114669055,0.0034711854864405
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1997,403.7373365718,461.38262820845006,346.35854081292996
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1995,0.0040696187548144,0.004661338399185,0.0034843049361329
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1995,406.09648343756,464.96133139564,347.75947135616997
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2002,0.0039524594641972,0.004513460991053,0.0033939176853027
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2002,394.01668084503996,449.77383353643995,338.43233351351
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2007,0.0066954662380483,0.0076010783477779,0.0057313346036638
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2007,650.3604369742,739.05435218284,557.53657054814
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1999,0.0067118525520422,0.0076226061229132,0.0057701587334373
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1999,654.36921769777,743.61810341977,563.17479678601
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2003,0.003942566592396,0.0045040206628773,0.003385737990441
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2003,392.90653548354,448.76565172252,337.51406081747
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2004,0.0039346914992669,0.0044921188705886,0.0033793317850269
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2004,391.99257032732004,447.35078738471003,336.77076896746996
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1999,0.0039872282224285,0.0045537158793876,0.0034206775085319
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1999,397.71696474264996,454.13803325167004,341.29182054457
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2002,0.0067164951618909,0.0076246247013541,0.0057688679317919
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2002,653.94840799837,742.96984099434,562.56877962506
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2006,0.0039462463320755,0.0044981871076937,0.0033908080100136
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2006,392.87702993663,447.62659784161,337.68017731541
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2006,0.0067055620307356,0.0076142775584827,0.0057468471281521
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2006,651.67849227109,740.34921312635,559.36143443487
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1998,0.0040238734778189,0.0045903828481372,0.0034523912739487
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1998,401.38034540328,458.08804357925,344.45571519551
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2004,0.006711790257675,0.0076201130589288,0.0057603037562555
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2004,652.81650397102,741.58085356864,561.15647386886
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2011,0.0066820235011417,0.0076008265494359,0.0057061817043491
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2011,647.72178038977,737.49998618802,553.8505293055
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2008,0.0039580325256497,0.0045112234443094,0.0034033870893671
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2008,393.70134741028,448.71284285055003,338.5963727796
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2003,0.0067154914303427,0.0076220073857189,0.0057661201413461
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2003,653.50192319654,742.3783293269499,562.00018790064
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2000,0.0039729730678212,0.0045395682327675,0.0034097711757247
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2000,396.24350576515997,452.61721707186,340.16571082036
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2001,0.0039630682250082,0.0045245462729708,0.0034023584669839
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2001,395.18011561115003,451.03115559582,339.36303626487995
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2012,0.006704597315826,0.0076323961633306,0.0057364566864846
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2012,649.54103317134,739.92180735783,556.46371295267
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2000,0.0039894209945671,0.0045482561171146,0.0034245047120803
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2000,397.85278660670997,453.50311695554,341.60510742174
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2010,0.0039637599808874,0.0045150305785407,0.0034105102033087
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2010,393.91998764515,448.70082776641993,338.96547915997
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2008,0.0066865507769356,0.0075923882430736,0.0057161526981228
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2008,649.11587755479,737.85005520569,555.70913782605
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2015,0.0067839039012298,0.0077302453655461,0.0058379368497604
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2015,656.01853745264,748.25836228751,564.49753133043
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2012,0.003939963402279,0.0044947078202411,0.0033885761838486
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2012,391.2995943016,446.22950930561996,336.56393360637003
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2011,0.0039477062759084,0.0045013492891477,0.0033944338181492
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2011,392.26270189499,447.33282222155,337.33135570853
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2009,0.0066772507955064,0.0075842007613879,0.0056994803698925
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2009,647.84424725478,736.6406067391399,553.74295793666
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2006,0.0039305550100422,0.0044848799634461,0.0033772492671129
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2006,391.34954113705,446.45810543857004,336.36478722764
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2009,0.0039632508178326,0.0045130344306049,0.0034088807553358
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2009,394.03198688925994,448.78755297707,338.96117125524
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2002,0.0039691379586885,0.0045248923063008,0.0034081443709862
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2002,395.65128804062,450.91622582354,339.82456038518
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2010,0.0066727914977722,0.0075816524576168,0.0056862698037753
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2010,647.11177500699,736.0604386853399,552.3425136347
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2018,0.0068129526249577,0.0077741047451095,0.0058543700865602
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2018,657.47420981215,749.5787665897,565.5708204595401
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2003,0.0039592732171916,0.0045171090311427,0.0033997220801681
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2003,394.54375093714,450.05943911357,338.88250663116
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2007,0.0039370428975235,0.0044937753718922,0.0033833610310905
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2007,391.84180719200003,447.09069062411,336.83171749247003
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2019,0.0068237722184918,0.0077874070821807,0.0058586175539148
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2019,658.1598263179101,750.66410038829,565.64860459625
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2005,0.0039297016833841,0.0044822296387028,0.0033756628079694
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2005,391.38430540021994,446.51283450558003,336.317746763
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2014,0.0039330111283467,0.0044856363829125,0.003384783272235
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2014,390.06744179881,444.48713902002,335.66260755836
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2004,0.0039513249154911,0.0045061449932949,0.0033930807151174
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2004,393.62123700527,448.68766582652,338.11563247195
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2009,0.0039517589110567,0.0045017966847669,0.0033965275610593
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2009,392.96556124572004,447.82321842477,337.82493629836
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2022,0.0070118905690572,0.0080200268658663,0.0060259671704961
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2022,677.04561441441,773.5308451023201,581.32255736298
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2021,0.0069236272160823,0.0079074442333587,0.005964586970982
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2021,668.18312436161,762.805513674,575.07726048709
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2008,0.0039452531835651,0.0044986546134031,0.0033907624524563
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2008,392.48953405914995,447.51162356914,337.41034980765
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2016,0.0039198509431008,0.0044720239211117,0.0033737682379453
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2016,388.33873355804997,442.67152337474005,334.20223369805
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2016,0.0039089464999498,0.0044602971618976,0.0033637121874181
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2016,387.38202437889004,441.50503804468997,333.34293958291
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2005,0.0039461494103957,0.004496525962577,0.0033890867840993
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2005,392.99229132286996,447.6673505472,337.62962436980996
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2023,0.0070136295099999,0.0080152831756894,0.0060256527950971
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,676.79493251544,774.34217924839,580.92756776611
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2007,0.003951404824745,0.0045054290813547,0.0033965572519373
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2007,393.22605082567,448.15916764760004,338.09501783395
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2017,0.0039107127162784,0.0044618179580847,0.0033651175060986
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2017,387.16620438997,441.34442952896,333.15394252415996
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2013,0.0067359769915101,0.0076683516183963,0.0057753132371928
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2013,652.1640804697,743.15445504048,559.86704398445
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2010,0.0039529245857896,0.0045057238715711,0.003397898038948
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2010,392.9330523636,447.75399232213,337.82342710052
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2014,0.0067634752551806,0.0077008055090644,0.005810511741457
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2014,654.41220730047,746.0776433147,562.90957485981
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2019,0.0038913963719692,0.0044391653827636,0.003347130273605
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2019,384.7123446865,438.47963055254,330.95565612918
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2016,0.0067904341779429,0.0077423043986627,0.0058430605057476
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2016,656.2445323345199,748.16161255472,564.9743213852
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2017,0.0068010830509025,0.0077583827751716,0.0058486099667869
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2017,656.7941219200201,748.56619048145,565.4418275311899
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2014,0.003922214139373,0.0044761072387531,0.0033742978705915
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2014,389.1101633336,443.60770985789003,334.75117020432003
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2020,0.0068341642598684,0.0077942245505649,0.0058636044720092
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2020,659.47463836537,752.4915299543501,566.3311066691
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2015,0.0039160229931685,0.0044698384557496,0.0033697186189954
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2015,388.30020023759,442.71565428483,334.11482209502
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2013,0.0039306807815999,0.0044838737105969,0.0033811468982141
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2013,390.16396964415003,444.82982793204997,335.62675598826
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2011,0.0039584022657091,0.0045108061513878,0.0034064220726528
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2011,393.22706110967,448.19709948259,338.40473891326997
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2021,0.0038818525430088,0.0044353902324845,0.0033398166962206
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2021,383.67357817829003,437.93664315142,330.11364576606996
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2012,0.0039506758070596,0.0045023686652818,0.0034000748397096
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2012,392.25908698214994,446.94029143792994,337.58386623022
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2018,0.0038890735137872,0.0044346715341553,0.0033451844956033
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2018,384.8707459831,438.45089043247,331.05932957215
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2017,0.0038996702419189,0.0044482086122424,0.003355108910427
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2017,386.19978048144,440.08064843534004,332.27245270132
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2013,0.0039414154174099,0.0044924929721779,0.0033921336992628
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2013,391.12019586821003,445.64664966571,336.59185891983
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2018,0.0039002509375757,0.0044496444515765,0.0033553918052292
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2018,385.84790646017,439.81180227825,331.97419437596
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2015,0.0039268415898885,0.0044802498727706,0.0033795879357846
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2015,389.25404311629,443.69437040802,334.96132794216
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2019,0.0038801615159557,0.0044234721599721,0.0033365890852166
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2019,383.73419307789,437.27898029150003,330.00419334865
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2020,0.0038742737058863,0.0044164947174231,0.0033305639035394
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2020,383.13224593722,437.01723808162,329.40212715607
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2021,0.0038707689805024,0.0044203953403491,0.0033284493365225
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2021,382.72518949181,436.95889659056,329.13849994324
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2022,0.0038701876344226,0.004426755484909,0.0033274102729354
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2022,382.45964954323,437.45701170134004,328.88032133362003
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2023,0.00387260165306,0.0044345313253946,0.0033323634714188
+1,All Population,5,Prevalence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,382.48535174268,437.55906218057004,329.21682305955
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2020,0.0038854749788765,0.0044325300718967,0.003341483261668
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2020,384.0988029217,437.94219860736996,330.38922588599
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2022,0.0038808795847398,0.0044292544518692,0.0033386402673308
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2022,383.38280353142,437.73664861985,329.8596879572
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2023,0.0038835407741508,0.0044410854366514,0.0033449113455528
+1,All Population,5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,383.4285325907,438.05109782257995,330.32472574211
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1990,0.0001297416243022,0.0001500006749243,0.0001114241682119
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1990,74.50577457389001,85.25190614019999,64.46720687199999
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1990,0.0001294163137332,0.0001497474587235,0.0001111931666949
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1990,74.30282523428001,85.07051082453,64.28728071829
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1990,0.0002447590902685,0.00027861033339,0.0002123928517383
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1990,113.10203106419,126.59999958048,98.44057584805
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1991,0.0002453151737874,0.0002787776824198,0.0002127704996448
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1991,113.20097706195001,126.60022002532001,98.61485589562999
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1991,0.0001297968371941,0.0001499380788458,0.0001112213121396
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1991,74.29674524162,85.01618604464,64.33720403497
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1991,0.0001295052296929,0.0001497112279514,0.0001110590289611
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1991,74.09604688737,84.81147377863999,64.16128477595001
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1992,0.0001295621637114,0.0001496511934804,0.0001109713081837
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1992,73.87555779873,84.54871589027,64.02280508896
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1992,0.0001297954481989,0.0001498544284198,0.0001110705850818
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1992,74.07563949501001,84.78091245231,64.19512919483
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1993,0.0001298534683166,0.0001499722298198,0.0001109432095355
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1993,73.85368166264999,84.46490294268,64.05084975685
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1993,0.0001296355840996,0.0001497560894718,0.0001108689722299
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1993,73.65264920284001,84.21476108358,63.83976371322
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1993,0.0002468143643892,0.0002802628261099,0.0002137595254275
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1993,113.42076200001999,126.69162183124,98.81322190273
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1992,0.0002460129074364,0.0002793264351659,0.0002131179600282
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1992,113.27011666912,126.59218355921,98.71974074203
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1994,0.0001296459768538,0.0001497496375238,0.0001106953837301
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1994,73.44403141904999,83.89020954924,63.640463148049996
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1995,0.000129806740773,0.0001499412740867,0.0001106272495999
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1995,73.2484133058,83.58609683364,63.41010311541
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1994,0.0002473902008519,0.0002808411745704,0.00021419454022
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1994,113.52649126327,126.78906532869001,98.85412580535
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1997,0.0002501447358138,0.0002829297558413,0.0002163495489235
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1997,113.94074541626999,127.35249717324,98.85991820181
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1994,0.0001298170452834,0.0001499395800229,0.0001107202275819
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1994,73.64575268002,84.13593757049999,63.846630553969995
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1995,0.0002480353983,0.0002812563470735,0.0002146006374745
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1995,113.62801625213999,126.93511309106,98.85932019985
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1995,0.0001299517888036,0.0001501286968125,0.0001106265628854
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1995,73.45185919242,83.82664399699,63.59763527083
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1999,0.0001299336077529,0.0001488290154933,0.0001109792273693
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1999,72.05736495488999,82.32291130655,62.60372120985
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1997,0.0001298860409448,0.0001493214213175,0.000110838004413
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1997,72.82137161135,83.14384569232,63.20005475417
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1996,0.0001299869455235,0.0001498208205822,0.0001107841638386
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1996,73.19093395246,83.54207440159,63.449092274449995
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2001,0.000130683133607,0.0001498422909573,0.0001120868655755
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2001,71.33783057741,81.59018651905001,62.00584404268999
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1996,0.000248861660592,0.000281749089778,0.0002153134420251
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1996,113.76976460809,127.1063328022,98.86482113763002
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1998,0.0001297851551174,0.0001488768983176,0.0001108613641263
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1998,72.41838027262,82.70996549777999,62.90393706678
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1998,0.0002515819556436,0.0002844883120786,0.0002175208201623
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1998,114.11540870293,127.61601567761001,98.85172126975999
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1997,0.0001297738631152,0.0001490902365948,0.0001108447222225
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1997,72.59706962547999,82.88889986404,63.01536134137999
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1999,0.0002530273614532,0.0002860226093545,0.0002186152126498
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1999,114.26573200913,127.84197588744,98.83305461047
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1996,0.0001298582367292,0.0001496133664897,0.0001107961923275
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1996,72.98098246561,83.29880515619,63.27505867109
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2000,0.0001302099410579,0.0001489174899346,0.0001112540821515
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2000,71.80170830461999,82.08665074625,62.39196499929
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2000,0.0002539589829823,0.0002868678436235,0.0002193431694039
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2000,114.28689262663,127.91457471999,98.72577826362
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2003,0.0001316690136901,0.0001510900538479,0.0001131711499298
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2003,70.92548975827,81.16343036564,61.348649425130006
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2002,0.0001310551726418,0.000150474827363,0.0001124077939477
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2002,71.40001545472,81.65327401046,61.835004583389996
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2005,0.0001329135046914,0.0001525292878838,0.0001139790655561
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2005,70.64903955853,80.87055242495,60.79609223893
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2001,0.0001306475158507,0.0001498302715581,0.0001119008505177
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2001,71.60732886624,81.87318854309,62.1707191695
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1998,0.0001296808342152,0.0001486222865461,0.0001108524434851
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1998,72.17668720655999,82.43880408582,62.706947063129995
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,1999,0.0001298708119894,0.0001486157405847,0.0001110631821005
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,1999,71.80051096647,82.03974015388,62.40676504265001
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2000,0.0001301741748592,0.0001489090771183,0.0001114030779085
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2000,71.53595556207999,81.77989948868,62.19122935536
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2003,0.0001314848989102,0.000151026449762,0.0001128930727018
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2003,71.20172739351999,81.43490419187,61.50730052722
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2004,0.0001320159955584,0.0001516257500215,0.0001132442639196
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2004,71.03657044266,81.25706804059,61.199838530339996
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2002,0.0002550397627445,0.0002877324823297,0.0002200764839823
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2002,114.14507387369,127.72410243786,98.68339729073
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2001,0.000254462914423,0.0002872650906327,0.0002196756317566
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2001,114.21325602097998,127.81746805479,98.6976945213
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2008,0.0002591344383045,0.0002920076483373,0.000223469193856
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2008,113.34189091136,126.77091706317,98.07041292103
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2003,0.0002556196220086,0.0002881887197974,0.0002204527925841
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2003,114.06154012100001,127.64073551771999,98.65190758905
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2005,0.0001325539788383,0.0001522945312853,0.0001135478537578
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2005,70.92413802819,81.12870331212,60.93722899006
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2007,0.0001347801584208,0.0001544144681447,0.000115456185899
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2007,70.98356325029,81.18005369459,61.11558793417999
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2006,0.000133465611089,0.0001531253929776,0.0001144287104487
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2006,70.90852254843999,81.10500309684001,60.987270521599996
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2002,0.0001311425069317,0.0001504838501177,0.0001126532476074
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2002,71.12594683089,81.37496680443999,61.672380693289995
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2008,0.0001360585889597,0.0001556797101559,0.0001165814929509
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2008,71.08249454351,81.22019801748,61.26132824193999
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2004,0.0002560401104861,0.0002886273363829,0.0002206788191713
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2004,113.93641133441001,127.54614338063,98.59123640157
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2010,0.000139321795492,0.0001587535516482,0.0001192642283624
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2010,70.9778160459,80.90168416322,61.323051016810005
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2010,0.0001385538981419,0.0001583129003483,0.0001184445753125
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2010,71.13960099891,81.15689392783,61.41751838234
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2004,0.0001322965597466,0.0001517887882422,0.0001135875659787
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2004,70.75941444536,80.98960066817,61.047560816460006
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2005,0.0002567646565247,0.0002894859463174,0.0002212362797954
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2005,113.85804557258,127.48567692904001,98.56498143098
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2009,0.0001374798098453,0.0001571819997265,0.0001176376645771
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2009,71.15441186948,81.23065603946,61.37713885006
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2006,0.0002574330868617,0.0002903247961903,0.000221724551643
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2006,113.72167854336,127.28766529094,98.37309365406
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2011,0.000139355645383,0.0001590331581639,0.000119109110074
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2011,71.01490293774,81.00169781149,61.27585339163999
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2007,0.0002582263969002,0.0002911060121808,0.0002225508493507
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2007,113.52278851019,127.01633810681,98.21384724347001
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2006,0.0001339391471298,0.0001533824606275,0.0001149355225141
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2006,70.64736603761,80.85480239028,60.850497298380006
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2012,0.0001411913531214,0.0001604944255029,0.0001205975966381
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2012,70.68485639568,80.54164050499,60.9981872626
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2008,0.0001367380023362,0.0001560657750217,0.0001172965017744
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2008,70.87866799509,80.96136191822,61.1520994738
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2009,0.0002599977266185,0.0002928516838452,0.0002243512577957
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2009,113.16785664041998,126.53695013605,97.9148377391
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2007,0.0001353327153343,0.000154705747505,0.0001160085566491
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2007,70.74803607953,80.91426607184,60.99128798251
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2012,0.000140309023819,0.0001596619567403,0.0001198344892225
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2012,70.84290216655,80.80371654164,61.0930359214
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2009,0.0001382192957529,0.000157600183982,0.0001184897647697
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2009,70.97784797242001,80.98150985435001,61.28055738386
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2010,0.0002605586858118,0.0002935706925095,0.0002248934054485
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2010,113.02914420717,126.37635845706001,97.77488201050001
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2014,0.0001431588944468,0.0001623758197466,0.000122087398553
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2014,70.29791504556,80.08961727622,60.58728375965
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2015,0.0002706502188108,0.0003041591103428,0.000234388673898
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2015,114.24256059065,128.06918453311002,99.48602740794
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2014,0.0001420559648921,0.0001614336550064,0.0001211956846325
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2014,70.45478232882,80.37695946055,60.68182479911
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2013,0.0001412310845781,0.000160651749583,0.00012054865172
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2013,70.63992256172,80.57449527782,60.879852814299994
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2015,0.0001442634171445,0.0001637518897296,0.0001229977420973
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2015,70.15112749114,79.92632054252,60.4147408351
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2011,0.0001401637752257,0.0001595273835459,0.0001199010601434
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2011,70.85660184291001,80.74556343083,61.18263445606
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2012,0.0002637640605044,0.0002968054045281,0.0002283854038409
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2012,113.3189833831,126.78878516285,97.93817662039
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2011,0.0002617676014684,0.0002947364977447,0.0002259284352578
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2011,113.07344918714999,126.45137507327,97.71868321202
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2017,0.0002751350203708,0.0003092193093205,0.0002382220468459
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2017,114.36062973754001,128.11141326955,99.47654213908
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2015,0.0001430487713024,0.0001626038125453,0.0001220189362974
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2015,70.30575678481,80.22417912674,60.50968079076
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2014,0.0002686537003634,0.0003021105235523,0.0002328878856496
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2014,114.0097760375,127.72956296719,99.02214307476001
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2013,0.0002661927478095,0.0002994948908133,0.0002310875823684
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2013,113.68794229787,127.27438974253,98.50056613717999
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2013,0.000142209338662,0.000161302058764,0.0001213039056298
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2013,70.48220767039,80.30091734516,60.784678315369995
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2017,0.0001461912265021,0.0001662819455791,0.0001244964795977
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2017,69.97003044325,79.83124082495999,60.09972393434
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2016,0.000144607265566,0.0001641949643797,0.0001231730676543
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2016,70.15158375829,80.0524191778,60.316577697919996
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2019,0.0001503117378308,0.0001711379326239,0.0001281040912428
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2019,69.44510855646,79.13392786365,59.54875716409
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2016,0.0002724276331304,0.0003061934176109,0.000235927232707
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2016,114.26927803668,128.05066062333998,99.45491814681
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2020,0.0002663736272562,0.0002995104028796,0.0002302800258719
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2020,114.80775894626,128.65647048544,99.66804288801
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2019,0.0002800756218562,0.0003149804044644,0.0002423490699816
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2019,114.58094464799998,128.39929670849,99.52363108777
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2016,0.0001458780194106,0.000165514287782,0.0001241023227943
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2016,69.99844171316,79.76145510802999,60.22009990142001
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2018,0.0002779736062364,0.000312489735163,0.0002406201610273
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2018,114.46501449597,128.23908703456001,99.49882291851999
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2017,0.0001474774221073,0.0001674359454518,0.0001255378483702
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2017,69.81764597174,79.54844643023,59.99937481758
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2018,0.0001490819554728,0.0001695063166904,0.0001269880070354
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2018,69.61759878848001,79.31932170286001,59.76301310292
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2020,0.0001396196763221,0.0001589528044531,0.0001190438112049
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2020,69.35375756474001,79.04632048035,59.40439587929001
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2021,0.0002531396127765,0.0002872452440986,0.0002194076879937
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2021,116.25540411601999,130.32032466773,101.10393231855001
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2018,0.0001477646054158,0.0001683529822958,0.0001258762758939
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2018,69.76871935353999,79.59534743435,59.86660726433
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2021,0.0001238681101973,0.0001436334687632,0.0001064475829782
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2021,69.28368894112,79.0605011124,59.35966970432
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2019,0.000149017253656,0.0001699203732856,0.0001269118117444
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2019,69.59354309579,79.40280068057,59.65538076839999
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2022,0.0002296236612435,0.0002628844221443,0.0001976545363444
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2022,117.69682283316999,131.95424945232,102.56589918232
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2023,0.0002362717597382,0.000272492713799,0.0002014236491156
+1,All Population,6,Incidence,1,Global,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,117.55211544753001,131.86954092468,102.27868703840001
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2022,0.0001270889610815,0.0001486200354675,0.0001068292135103
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2022,69.24108542363001,79.07628573288001,59.317649554249996
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2023,0.0001293035042627,0.0001523746179235,0.0001046292802005
+1,All Population,6,Incidence,263,Western Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,69.26166153353,78.87957438067,59.5238117946
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2020,0.0001386429289379,0.0001579322543417,0.0001180299239455
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2020,69.49866792798001,79.31375728976,59.511283669440004
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2021,0.0001237192813778,0.0001432329551904,0.0001061563833892
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2021,69.42617146523,79.26359036586,59.470586733400005
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2022,0.0001251496120748,0.0001454496454077,0.0001052232528248
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2022,69.38084817953,79.18341522410999,59.43557996925
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,2,Percent,2023,0.0001280199798197,0.000149014730132,0.0001040811052752
+1,All Population,6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,543,Alzheimer's disease and other dementias,3,Rate,2023,69.40773761687,79.06798346394,59.63194280762
